@@ -27,3 +27,8 @@ $ git clone git://github.com/freelighting/RLcar.git
 * Prioritized Experience Replay
 * Double DQN
 * DDPG
+
+## 需要的修改
+
+* 环境文件创建文件夹 env
+* 其余每个算法单独列出文件夹
